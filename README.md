@@ -8,19 +8,23 @@ Welcome to the Vector Database Cloud Open-Source Embeddings repository! This rep
 
 ## Table of Contents
 
-1. [About](#about)
-2. [Prerequisites](#prerequisites)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Embeddings](#embeddings)
-    1. [Text Embeddings](#text-embeddings)
-    2. [Image Embeddings](#image-embeddings)
-    3. [Multimodal Embeddings](#multimodal-embeddings)
-6. [Troubleshooting](#troubleshooting)
-7. [Contribution and Feedback](#contribution-and-feedback)
-8. [License](#license)
-9. [Disclaimer](#disclaimer)
-
+1. [About Vector Database Cloud](#about-vector-database-cloud)
+2. [Introduction](#introduction)
+3. [About](#about)
+4. [Prerequisites](#prerequisites)
+5. [Usage](#usage)
+6. [Embeddings](#embeddings)
+   1. [Text Embeddings](#text-embeddings)
+   2. [Image Embeddings](#image-embeddings)
+   3. [Multimodal Embeddings](#multimodal-embeddings)
+7. [Installation](#installation)
+8. [Common Issues](#common-issues)
+9. [Troubleshooting](#troubleshooting)
+10. [Code of Conduct](#code-of-conduct)
+11. [Related Resources](#related-resources)
+12. [Contributing](#contributing)
+13. [License](#license)
+14. [Disclaimer](#disclaimer)
 
 ## About
 
@@ -208,9 +212,27 @@ If you've tried these troubleshooting steps and are still experiencing issues, p
 We adhere to the [Vector Database Cloud Code of Conduct](https://github.com/VectorDBCloud/Community/blob/main/CODE_OF_CONDUCT.md). Please ensure contributions align with our community standards.
 
 
-## Contribution and Feedback
+## Related Resources  
 
-We encourage contributions to enhance these embeddings. For contributing new embeddings or suggesting improvements, please refer to our [Contribution Guidelines](CONTRIBUTING.md). If you encounter issues or have suggestions, please use the issue tracker.
+- [Vector Database Cloud Documentation](https://docs.vectordbcloud.com)
+- [Embeddings Repository](https://github.com/VectorDBCloud/Embeddings)
+- [Vector Database Benchmarks](https://github.com/VectorDBCloud/Benchmarks)
+- [Vector Database Use Cases](https://github.com/VectorDBCloud/Use-Cases)
+- [Community Forum](https://community.vectordbcloud.com)
+-
+
+## Contributing
+
+We welcome contributions to improve and expand our Open-Source Embedding Cookbook! Here's how you can contribute:  
+1. **Fork the repository**: Create your own fork of the code.
+2. **Create a new branch**: Make your changes in a new git branch.
+3. **Make your changes**: Enhance existing cookbooks or add new ones.
+4. **Follow the style guidelines**: Ensure your code follows our coding standards.
+5. **Write clear commit messages**: Your commit messages should clearly describe the changes you've made.
+6. **Submit a pull request**: Open a new pull request with your changes.
+7. **Respond to feedback**: Be open to feedback and make necessary adjustments to your pull request.
+
+For more detailed information on contributing, please refer to our [Contribution Guidelines](CONTRIBUTING.md).  
 
 
 ## License
