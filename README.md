@@ -10,23 +10,28 @@ Welcome to the Vector Database Cloud Open-Source Embeddings repository! This rep
 
 1. [About Vector Database Cloud](#about-vector-database-cloud)
 2. [Introduction](#introduction)
-3. [About](#about)
-4. [Prerequisites](#prerequisites)
-5. [Usage](#usage)
-6. [Embeddings](#embeddings)
+3. [Prerequisites](#prerequisites)
+4. [Usage](#usage)
+5. [Embeddings](#embeddings)
    1. [Text Embeddings](#text-embeddings)
    2. [Image Embeddings](#image-embeddings)
    3. [Multimodal Embeddings](#multimodal-embeddings)
-7. [Installation](#installation)
-8. [Common Issues](#common-issues)
-9. [Troubleshooting](#troubleshooting)
-10. [Code of Conduct](#code-of-conduct)
-11. [Related Resources](#related-resources)
-12. [Contributing](#contributing)
-13. [License](#license)
-14. [Disclaimer](#disclaimer)
+6. [Installation](#installation)
+7. [Troubleshooting](#troubleshooting)
+8. [Code of Conduct](#code-of-conduct)
+9. [Related Resources](#related-resources)
+10. [Contributing](#contributing)
+11. [License](#license)
+12. [Disclaimer](#disclaimer)
 
-## About
+
+## About Vector Database Cloud
+
+[Vector Database Cloud](https://vectordbcloud.com) is a platform that provides one-click deployment of popular vector databases including Qdrant, Milvus, ChromaDB, and Pgvector on cloud. Our platform ensures a secure API, a comprehensive customer dashboard, efficient vector search, and real-time monitoring.
+
+## Introduction
+
+Vector Database Cloud is designed to seamlessly integrate with your existing data workflows. Whether you're working with structured data, unstructured data, or high-dimensional vectors, you can leverage popular ETL (Extract, Transform, Load) tools to streamline the process of moving data into and out of Vector Database Cloud.
 
 This repository serves as a centralized resource for pre-computed embeddings that can be directly used with vector databases. These embeddings are generated using popular models and datasets, and are intended to save time and computational resources for users.
 
